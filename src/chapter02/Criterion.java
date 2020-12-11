@@ -1,5 +1,7 @@
 package chapter02;
 
+import chapter01.Scoreable;
+
 public class Criterion implements Scoreable {
     // ...
     private Weight weight;
